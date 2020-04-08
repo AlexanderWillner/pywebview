@@ -1,4 +1,6 @@
 import webview
+import objc  # pylint: disable=unused-import # noqa F401
+import pkg_resources.py2_warn  # pylint: disable=unused-import # noqa F401
 
 """
 This example demonstrates how to create a webview window.
